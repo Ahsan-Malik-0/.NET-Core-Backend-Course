@@ -1,2 +1,2 @@
 # .NET-Core-Backend-Course
-Covers all the fundamental topics of .NET Core backend
+This repository contains a collection of small, practical projects created while learning .NET Core backend development. It covers core concepts such as Web APIs, CRUD operations, middleware, error handling, serialization/deserialization, and client–server communication. Each folder represents a focused example or mini project designed for hands-on learning and reference.
