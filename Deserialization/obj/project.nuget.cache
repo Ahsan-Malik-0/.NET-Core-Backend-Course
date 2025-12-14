@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/YR2b9qNs3c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\Deserialization\\Deserialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahsa\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\mahsa\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\mahsa\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\mahsa\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

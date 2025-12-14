@@ -1,0 +1,7 @@
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\CRUD\obj\Release\net8.0\PubTmp\Out\CRUD.exe
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\CRUD\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\CRUD\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\CRUD\obj\Release\net8.0\PubTmp\Out\CRUD.dll
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\CRUD\obj\Release\net8.0\PubTmp\Out\CRUD.deps.json
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\CRUD\obj\Release\net8.0\PubTmp\Out\CRUD.runtimeconfig.json
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\CRUD\obj\Release\net8.0\PubTmp\Out\CRUD.pdb

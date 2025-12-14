@@ -1,0 +1,8 @@
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\Ragular Expression\bin\Debug\Ragular Expression.exe.config
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\Ragular Expression\bin\Debug\Ragular Expression.exe
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\Ragular Expression\bin\Debug\Ragular Expression.pdb
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\Ragular Expression\obj\Debug\Ragular Expression.csproj.AssemblyReference.cache
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\Ragular Expression\obj\Debug\Ragular Expression.csproj.CoreCompileInputs.cache
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\Ragular Expression\obj\Debug\Ragular Expression.exe
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\Ragular Expression\obj\Debug\Ragular Expression.pdb
+C:\Users\mahsa\OneDrive\Desktop\.NET Backent Course Microsoft\Ragular Expression\obj\Debug\Ragular Expression.exe.config

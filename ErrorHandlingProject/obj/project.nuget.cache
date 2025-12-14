@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YmHWNqUeTo8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ErrorHandlingProject\\ErrorHandlingProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahsa\\.nuget\\packages\\polly\\6.1.0\\polly.6.1.0.nupkg.sha512",
+    "C:\\Users\\mahsa\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\mahsa\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahsa\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\mahsa\\.nuget\\packages\\serilog.sinks.rollingfile.extension\\2.0.2\\serilog.sinks.rollingfile.extension.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

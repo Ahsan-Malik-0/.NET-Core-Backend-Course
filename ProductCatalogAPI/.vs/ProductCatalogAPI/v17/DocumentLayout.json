@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ProductCatalogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{884F816E-7D1A-4CF9-893B-9FF6A7DA3DDA}|ProductCatalogAPI.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\productcatalogapi\\method\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884F816E-7D1A-4CF9-893B-9FF6A7DA3DDA}|ProductCatalogAPI.csproj|solutionrelative:method\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884F816E-7D1A-4CF9-893B-9FF6A7DA3DDA}|ProductCatalogAPI.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\productcatalogapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884F816E-7D1A-4CF9-893B-9FF6A7DA3DDA}|ProductCatalogAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884F816E-7D1A-4CF9-893B-9FF6A7DA3DDA}|ProductCatalogAPI.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884F816E-7D1A-4CF9-893B-9FF6A7DA3DDA}|ProductCatalogAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ProductCatalogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ProductCatalogAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:18:29.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ProductCatalogAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ProductCatalogAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:16:23.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ProductCatalogAPI\\Method\\Product.cs",
+              "RelativeDocumentMoniker": "Method\\Product.cs",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ProductCatalogAPI\\Method\\Product.cs",
+              "RelativeToolTip": "Method\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:13:37.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

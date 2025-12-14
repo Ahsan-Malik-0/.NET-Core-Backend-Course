@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\asp.net web api crud operations\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\asp.net web api crud operations\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|solutionrelative:models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\asp.net web api crud operations\\models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|solutionrelative:models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\asp.net web api crud operations\\data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|solutionrelative:data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\asp.net web api crud operations\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\asp.net web api crud operations\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|c:\\users\\mahsa\\onedrive\\desktop\\.net backent course microsoft\\asp.net web api crud operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B86656D-BBFC-4A45-91C4-9F4424CED909}|ASP.NET Web API CRUD Operations.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T18:28:16.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T18:26:34.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Models\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Models\\Entity\\Employee.cs",
+              "RelativeToolTip": "Models\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:27:14.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:27:07.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:16:51.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Data\\DB.cs",
+              "RelativeDocumentMoniker": "Data\\DB.cs",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Data\\DB.cs",
+              "RelativeToolTip": "Data\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:33:00.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mahsa\\OneDrive\\Desktop\\.NET Backent Course Microsoft\\ASP.NET Web API CRUD Operations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:05:25.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

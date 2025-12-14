@@ -1,0 +1,19 @@
+@HostAddress = https://localhost:7087
+# @HostAddress = http://localhost:5173
+
+GET {{HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{HostAddress}}/api/employees
+Content-Type: application/json
+
+{
+    "name": "Taha",
+    "email": "taha@gmail.com",
+    "phone": "89012345678",
+    "salary": 89000.00
+}
+
+###
